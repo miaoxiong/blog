@@ -8,16 +8,16 @@ comments: yes
 # 学习网站
 
 - [the unix school][1]
-- [geek for geeks][2]
-- [厦门大学数据库实验室][3]
+- [奥林巴斯EPL1-技巧][2]
+- [破船之家][3]
 
 
 # 博客
 
-- [赖明星][5] 学长老乡
+- [赖明星][5] 学长
 
 
 [1]: http://www.theunixschool.com/
-[2]: http://geeksforgeeks.org/
-[3]: http://dblab.xmu.edu.cn
-[5]: http://mingxinglai.com
+[2]: http://dcbbs.zol.com.cn/comment_type_7_231855.html/
+[3]: http://beyondvincent.com/
+[5]: http://mingxinglai.com/
