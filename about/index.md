@@ -32,6 +32,6 @@ pagetitle: 成长的过程是曲折的，我微笑面对
 [2]: http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
 [3]: http://beiyuu.com/github-pages/
 [4]: http://www.heiniuhaha.com/lessons/2012/08/09/use-google-code-prettify/
-[5]: http://xiongmiao.cn/vitae/
+[5]: http://xiongmiao.cn/blog/vitae/
 [8]: http://en.wikipedia.org/wiki/Don't_be_evil
-[9]: http://xiongmiao.cn/about/
+[9]: http://xiongmiao.cn/blog/about/
