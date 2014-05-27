@@ -12,7 +12,7 @@ Email：xmiaox@qq.com
 
 主页：<http://xiongmiao.cn/>
 
-更多：<http://xiongmiao.cn/about/>
+更多：<http://xiongmiao.cn/blog/about/>
 
 # 专业技能
 
