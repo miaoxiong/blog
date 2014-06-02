@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 同安温泉
-category: 时光轴
+category: 生活
 tags: [博客]
 ---
 
