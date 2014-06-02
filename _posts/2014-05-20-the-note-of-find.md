@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的博客开通了
-category: 时光轴
+category: 大事记要
 tags: [博客]
 ---
 
