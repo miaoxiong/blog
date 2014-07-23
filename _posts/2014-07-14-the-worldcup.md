@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2014-巴西世界杯
+title: 巴西世界杯
 category: 生活
 tags: [博客]
 ---
