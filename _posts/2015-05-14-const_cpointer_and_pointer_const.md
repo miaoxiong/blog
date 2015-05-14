@@ -2,7 +2,7 @@
 layout: post
 title: 指针常量，常指针，指向常量的常指针
 category: C语言
-tags: [博客]
+tags: [C语言]
 ---
 
 # 指针常量，常指针，指向常量的常指针
