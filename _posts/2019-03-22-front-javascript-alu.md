@@ -7,10 +7,10 @@ tags: [前端]
 
 # 求两个大数相加
 
+
 const maxNumAdd = function(a, b) {
 	let arrA = typeof a === 'number' ? (a + '').split('') : a.split('')
 	let arrB = typeof b === 'number' ? (b + '').split('') : b.split('')
-
 	let res = '',
 		c = 0;
 	while (arrA.length || arrB.length || c) {
@@ -20,6 +20,7 @@ const maxNumAdd = function(a, b) {
 	}
 	return res.replace(/^0+/, '')
 }
+
 
 
 
