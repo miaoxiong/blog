@@ -8,7 +8,7 @@ title: 简历（熊苗）
 
 Email：xmiaox@qq.com
 
-地址：深圳市南山区
+地址：深圳市南山区学府花园
 
 主页：<http://xiongmiao.cn/>
 
@@ -17,12 +17,14 @@ Email：xmiaox@qq.com
 # 专业技能
 
 - 会点儿PS技能
-- 不会盗QQ号
 - 也无法帮忙在`www.12306.com`抢到火车票
-- 熟悉linux，C/C++
+- 熟悉linux
 - 掌握基本的数据结构和算法
 - 熟悉MySql
-- 对网络编程有极大的兴趣
+- 精通javascript、CSS3、H5
+- 熟悉echarts、d3、bootstrap
+- 熟悉vue、vuex、vue-router
+- 正在学react
 
 # 教育背景
 
