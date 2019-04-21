@@ -10,11 +10,11 @@ tags: [前端]
 #要求：输入为字符串或者数字，转化为特定进制的数字
 
 #不考虑字母的情况
+
 	const parseInt1 = function(str, radix) {
 	//输入为非数字和字符串 则返回NaN
 	if (typeof str !== 'number' && typeof str !== 'string')
 		return NaN;
-
 	let toStr = ('' + str).trim()
 	let srcStr = toStr.split('.')[0]
 	let len = srcStr.length
@@ -25,12 +25,10 @@ tags: [前端]
 	if (!radix) {
 		radix = 10;
 	}
-
 	let res = 0;
 	// 进制在2到36之间
 	if (radix < 2 || radix > 36)
 		return NaN;
-
 	for (let i = 0; i < len; i++) {
 		// 转化到当前位无效时，则返回有效部分，否则返回NaN
 		if (srcStr[i] >= radix && res > 0) {
@@ -42,7 +40,7 @@ tags: [前端]
 		res = radix * res + ~~srcStr[i]
 	}
 	return res;
-		}
+	}
 
 #改进版 考虑字母的情况
 
@@ -60,7 +58,6 @@ tags: [前端]
 	if (!radix) {
 		radix = 10;
 	}
-
 	let res = 0;
 	if (radix < 2 || radix > 36)
 		return NaN
@@ -90,7 +87,7 @@ tags: [前端]
 		res = radix * res + elem
 	}
 	return res;
-}
+	}
 
 
 
