@@ -10,7 +10,7 @@ tags: [前端]
 #要求：输入为字符串或者数字，转化为特定进制的数字
 
 
-const parseInt1 = function(str, radix) {
+	const parseInt1 = function(str, radix) {
 	//输入为非数字和字符串 则返回NaN
 	if (typeof str !== 'number' && typeof str !== 'string')
 		return NaN;
