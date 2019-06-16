@@ -16,15 +16,13 @@ Email：xmiaox@qq.com
 
 # 专业技能
 
-- 会点儿PS技能
-- 也无法帮忙在`www.12306.com`抢到火车票
 - 熟悉linux
 - 掌握基本的数据结构和算法
 - 熟悉MySql
 - 精通javascript、CSS3、H5
 - 熟悉echarts、d3、bootstrap
 - 熟悉vue、vuex、vue-router
-- 正在学react
+- 了解react、redux和antd
 
 # 教育背景
 
