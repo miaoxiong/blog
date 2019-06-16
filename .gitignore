@@ -2,3 +2,6 @@ _site
 Rakefile
 _posts/_figure
 _posts/_cache
+.DS_Store
+*.idea/
+_posts/.DS_Store
