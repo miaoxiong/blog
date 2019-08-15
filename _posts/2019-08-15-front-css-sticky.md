@@ -12,7 +12,7 @@ tags: [前端]
 	<title>sticky</title>
 ~<style type="text/css">
 	main{
-	width:30%;
+	width:50%;
 	margin:0 auto;
 	}
 			p{
