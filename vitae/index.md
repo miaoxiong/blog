@@ -10,9 +10,9 @@ Email：xmiaox@qq.com
 
 地址：深圳市南山区学府花园
 
-主页：<http://xiongmiao.cn/>
+主页：<http://xmiaox.cn/>
 
-更多：<http://xiongmiao.cn/blog/about/>
+更多：<http://xmiaox.cn/blog/about/>
 
 # 专业技能
 
